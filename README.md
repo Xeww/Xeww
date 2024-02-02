@@ -1,6 +1,6 @@
 # Ohayō! I'm François 👋🏻
 
-- ⚡Currently learning all aspects of web development as a student at [EPSI](https://epsi.fr/)
+- ⚡Currently learning all aspects of web development as a student at <a href="https://epsi.fr" target="_blank">EPSI</a>
 
 - 🗣️My languages are: 🇫🇷 French-(Native), 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English-(Fluent)
 

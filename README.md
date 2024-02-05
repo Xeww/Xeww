@@ -22,4 +22,6 @@
 
 ## Contact
 
-✏️Need to contact me for whatever reason? Feel free to do so by sending me an e-mail at <a href="mailto:business@rancois-lp.dev">business@francois-lp.dev</a>.
+- 📪 Business: <a href="mailto:business@rancois-lp.dev">business@francois-lp.dev</a>.
+- 🍺 Discord: @kozuki_wex (id: 1200960848819134465)
+- 🐦 X/Twitter: @kozuki_wex

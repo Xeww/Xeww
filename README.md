@@ -2,11 +2,11 @@
 
 - ⚡Currently learning all aspects of web development as a student at <a href="https://epsi.fr" target="_blank">EPSI</a>
 
-- 🗣️My languages are: French-(Native), English-(Fluent)
+- 🗣️ My languages are: French-(Native), English-(Fluent)
 
-- 🔮I have always been vigorously interested in computers and various technologies since my childhood
+- 🔮 I have always been vigorously interested in computers and various technologies since my childhood
 
-- 🏮My others centers of interest are: Geography🌍, History📖, Anime🗾 and sometimes I like to play video games🎮
+- 🏮 My others centers of interest are: Geography🌍, History📖, Anime🗾 and sometimes I like to play video games🎮
 
 ## Tools
 

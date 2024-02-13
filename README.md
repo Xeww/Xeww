@@ -2,11 +2,11 @@
 
 - ⚡Currently learning all aspects of web development as a student at <a href="https://epsi.fr" target="_blank">EPSI</a>
 
-- 🗣️ My languages are: French-(Native), English-(Fluent)
+- 🗣️My languages are: French-(Native), English-(Fluent)
 
-- 🔮 I have always been vigorously interested in computers and various technologies since my childhood
+- 🔮I have always been vigorously interested in computers and various technologies since my childhood
 
-- 🏮 My others centers of interest are: Geography🌍, History📖, Anime🗾 and sometimes I like to play video games🎮
+- 🏮My others centers of interest are: Geography🌍, History📖, Anime🗾 and sometimes I like to play video games🎮
 
 ## Tools
 
@@ -19,9 +19,3 @@
 🧐 Learning:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-## Contact
-
-- 📪 Business: <a href="mailto:business@rancois-lp.dev">business@francois-lp.dev</a>.
-- 🍺 Discord: @kozuki_wex (id: 1200960848819134465)
-- 🐦 X/Twitter: @kozuki_wex

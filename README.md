@@ -15,6 +15,7 @@
 
 ## Tech
 
+<div>
 <!-- JS -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 
@@ -47,3 +48,4 @@
 
  <!-- Ubuntu -->
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>

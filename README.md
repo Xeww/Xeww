@@ -10,8 +10,19 @@
 
 ## Tools
 
+<div>
+<!-- VS Code -->
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Draw.io-f08705?style=for-the-badge&logo=diagrams.net&logoColor=white">
+
+<!-- PHPStorm -->
+<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
+
+<!-- Figma -->
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+
+ <!-- Draw.io -->
+ <img src="https://img.shields.io/badge/Draw.io-f08705?style=for-the-badge&logo=diagrams.net&logoColor=white">
+</div>
 
 ## Tech
 
